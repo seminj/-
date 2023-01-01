@@ -2,6 +2,7 @@
 (A Study on the Effect of the Part of Speech on Movie Review Sentiment Classification Performance) <br>
 2021 한국정보기술학회(KIT) 추계 대학생 논문경진대회 (우수논문상 수상) <br>
 
+- [논문보기](https://seminj.github.io/files/2021_paper.pdf)
 
 
 ## 📋 프로젝트 개요
