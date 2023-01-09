@@ -50,8 +50,7 @@ Permutation Importance 사용 <br>
 
 
 ## 💻 참고자료
-- 논문 링크 : [품사에 따른 영화 리뷰 감성분석 연구](https://seminj.github.io/files/2021_paper.pdf)
-- 프로젝트 발표 자료 링크 : 
+- 프로젝트 발표 자료
 
 
 <!--
